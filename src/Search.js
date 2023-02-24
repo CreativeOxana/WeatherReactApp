@@ -51,4 +51,5 @@ export default function WeatherSearch() {
       {message}
     </div>
   );
+<a href="https://github.com/CreativeOxana/WeatherReactApp">Github repository</a>
 }
