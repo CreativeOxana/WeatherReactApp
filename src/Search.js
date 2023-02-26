@@ -49,6 +49,8 @@ export default function WeatherSearch() {
         <input type="submit" />
       </form>
       {message}
+      <br />
+      <a href="https://github.com/CreativeOxana/WeatherReactApp">Github repository</a>
     </div>
   );
 }
