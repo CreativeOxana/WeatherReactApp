@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import "./styles.css";
 
+
 export default function WeatherSearch() {
   const [city, setCity] = useState("");
   const [message, setMessage] = useState("");
@@ -50,7 +51,9 @@ export default function WeatherSearch() {
       </form>
       {message}
       <br />
-      <a href="https://github.com/CreativeOxana/WeatherReactApp">Github repository</a>
+      <a href="https://github.com/CreativeOxana/WeatherReactApp">
+        Github repository
+      </a>
     </div>
   );
 }
