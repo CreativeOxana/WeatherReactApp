@@ -1,5 +1,6 @@
 .WeatherForecast {
   text-align: center;
+  background: linear-gradient(to right, #f83600 0%, #f9d423 100%);
 }
 
 .WeatherForecastTemperature-min {
