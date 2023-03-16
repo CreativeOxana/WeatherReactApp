@@ -4,7 +4,7 @@
   padding: 16px;
   border-radius: 4px;
   color: rgb(135,135,135);
-  background: linear-gradient(109.6deg, rgb(232, 252, 252) 11.2%, rgb(252, 215, 134) 56.2%, rgb(247, 124, 124) 100.2%);
+  background: radial-gradient(circle at 10% 20%, rgb(43, 199, 188) 0%, rgb(219, 249, 203) 72.9%);
 }
 
 .Weather h1 {
